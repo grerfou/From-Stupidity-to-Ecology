@@ -11,7 +11,7 @@
 
 ## Notes : 
 
-1. My note about the artistic practice of Maximilian Prüfer --> [here](./)
+1. My note about the artistic practice of Maximilian Prüfer --> [here](./writing/Maximilian_prufer.md)
 
 
 
